@@ -1,0 +1,10 @@
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.Properties.Resources.resources
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.GenerateResource.Cache
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.exe
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.pdb
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.HostEntryForm.resources
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\ScreenCasterSystemTray.HostEntryForm.resources
+C:\Users\John\Downloads\SystemTrayApp\SystemTrayApp\obj\x86\Debug\ScreenCasterSystemTray.Properties.Resources.resources
